@@ -61,8 +61,8 @@ public class Main {
                         count1++;
                     }
                     if (stop) {
-                        System.out.println("Собака достигла цели столько раз = " + count2);
-                        System.out.println("Время = " + time);
+                        System.out.println("Г‘Г®ГЎГ ГЄГ  Г¤Г®Г±ГІГЁГЈГ«Г  Г¶ГҐГ«ГЁ Г±ГІГ®Г«ГјГЄГ® Г°Г Г§ = " + count2);
+                        System.out.println("Г‚Г°ГҐГ¬Гї = " + time);
                         return;
                     }
                 }
@@ -88,8 +88,8 @@ public class Main {
                     }
                     if (stop) {
                         count2 = count2 + count1;
-                        System.out.println("Собака достигла цели столько раз = " + count2);
-                        System.out.println("Время = " + time);
+                        System.out.println("Г‘Г®ГЎГ ГЄГ  Г¤Г®Г±ГІГЁГЈГ«Г  Г¶ГҐГ«ГЁ Г±ГІГ®Г«ГјГЄГ® Г°Г Г§ = " + count2);
+                        System.out.println("Г‚Г°ГҐГ¬Гї = " + time);
                         return;
                     }
                 }
@@ -98,25 +98,3 @@ public class Main {
 
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
